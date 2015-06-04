@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site maintenance mode\n"
+"POT-Creation-Date: 2015-05-30 10:43+0500\n"
+"PO-Revision-Date: 2015-05-30 12:08+0500\n"
+"Last-Translator: Nikolay Kot <samoylovnn@gmail.com>\n"
+"Language-Team: info@kplus.pro\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_p;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: site-maintenance-mode.php:62 site-maintenance-mode.php:213
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: site-maintenance-mode.php:74 site-maintenance-mode.php:299
+msgid "Maintenance mode"
+msgstr "Wartungsmodus"
+
+#: site-maintenance-mode.php:90 site-maintenance-mode.php:114
+msgid "Turn off maintenance mode"
+msgstr "Wartungsmodus ausschalten"
+
+#: site-maintenance-mode.php:96 site-maintenance-mode.php:114
+msgid "Turn on maintenance mode"
+msgstr "In Wartungsmodus einstellen"
+
+#: site-maintenance-mode.php:103
+msgid "Invalid server response"
+msgstr "Nicht korrekte Serverantwort "
+
+#: site-maintenance-mode.php:131
+msgid "Maintenance mode enabled"
+msgstr "Wartungsmodus ausgeschaltet"
+
+#: site-maintenance-mode.php:161
+msgid "Site closed for maintenance"
+msgstr "Die Seite ist im Wartungsmodus "
+
+#: site-maintenance-mode.php:163
+msgid "Site temporarily unavailable"
+msgstr "Die Seite ist vorläufig nicht verfügbar"
+
+#: site-maintenance-mode.php:163
+msgid "Currently on the site are technical works"
+msgstr ""
+"Zur Zeit werden die technische Arbeiten auf der Seite durchgeführt "
+
+#: site-maintenance-mode.php:163
+msgid "We apologise for any inconvenience"
+msgstr "Wir bitten um Entschuldigung für die Umstände"
+
+#: site-maintenance-mode.php:163
+msgid "Login for Administrators"
+msgstr "Als Administrator einloggen "
+
+#: site-maintenance-mode.php:205
+msgid "Settings saved"
+msgstr "Einstellungen sind gespeichert "
+
+#: site-maintenance-mode.php:209
+msgid "Settings reseted"
+msgstr "Einstellungen sind rückgesetzt "
+
+#: site-maintenance-mode.php:213
+msgid "maintenance mode"
+msgstr "Wartungsmodus"
+
+#: site-maintenance-mode.php:221
+msgid "Mode active"
+msgstr "Aktivmodus "
+
+#: site-maintenance-mode.php:224
+msgid "Yes"
+msgstr "Ja"
+
+#: site-maintenance-mode.php:227
+msgid "No"
+msgstr "Nein"
+
+#: site-maintenance-mode.php:233
+msgid "Title"
+msgstr "Titel "
+
+#: site-maintenance-mode.php:236
+#, php-format
+msgid "This title will be specified in the tag %s"
+msgstr "Dieser Titel wird auf dem Etikett angezeigt %s"
+
+#: site-maintenance-mode.php:241
+msgid "CSS-styles"
+msgstr "CSS-styles"
+
+#: site-maintenance-mode.php:246
+#, php-format
+msgid "These styles will be inserted into the tag %s"
+msgstr "Diese Stiles werden auf das Etikett hinzugefügt %s"
+
+#: site-maintenance-mode.php:251
+msgid "Text to be displayed"
+msgstr "Die Text, die angezeigt wird"
+
+#: site-maintenance-mode.php:256
+#, php-format
+msgid "These text is inserted into the tag %s (HTML code is allowed)"
+msgstr ""
+" Diese Text wird auf das Etikett %s hinzugefügt (die Nutzung des "
+"willkürlichen HTML Kodes ist erlaubt) "
+
+#: site-maintenance-mode.php:261
+msgid "Close access to the site for"
+msgstr "Kein Zugriff auf Seite "
+
+#: site-maintenance-mode.php:270
+msgid "Authors"
+msgstr "der Autoren "
+
+#: site-maintenance-mode.php:271
+msgid "Contributors"
+msgstr "der Teilnehmer "
+
+#: site-maintenance-mode.php:272
+msgid "Editors"
+msgstr "der Editors "
+
+#: site-maintenance-mode.php:273
+msgid "Subscribers"
+msgstr "der Abonnenten "
+
+#: site-maintenance-mode.php:274
+msgid "Visitors"
+msgstr "der Besucher"
+
+#: site-maintenance-mode.php:281
+msgid ""
+"Select a users groups for which the maintenance mode will be displayed "
+"instead of the contents of the site"
+msgstr ""
+"Wählen Sie der Gruppe der Benutzer, für die der Wartungsmodus statt "
+"Inhalt der Seite angezeigt wird"
+
+#: site-maintenance-mode.php:286
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#: site-maintenance-mode.php:288
+msgid "Reset settings"
+msgstr "Einstellungen rücksetzen"
+
+#~ msgid "Contributor"
+#~ msgstr "Участников"
+
+#~ msgid "Режим обслуживания"
+#~ msgstr "Maintenance mode"
+
+#~ msgid "Выключить режим обслуживания сайта"
+#~ msgstr "Turn on maintenance mode"
+
+#~ msgid "Перевести сайт в режим обслуживания"
+#~ msgstr "Turn on maintenance mode"
+
+#~ msgid "Некорректный ответ сервера"
+#~ msgstr "Invalid server response"
+
+#~ msgid "Режим обслуживания включен"
+#~ msgstr "Maintenance mode enabled"
+
+#~ msgid "Сайт закрыт на обслуживание"
+#~ msgstr "Site closed for maintenance"
+
+#~ msgid "Сайт временно не работает"
+#~ msgstr "Site temporarily unavailable"
+
+#~ msgid "В данный момент на сайте проводятся технические работы"
+#~ msgstr "Currently on the site are technical works"
+
+#~ msgid "Приносим свои извинения за предоставленные неудобства"
+#~ msgstr "We apologise for any inconvenience"
+
+#~ msgid "Вход для администраторов"
+#~ msgstr "Login for Administrators"
+
+#~ msgid "Настройки сохранены"
+#~ msgstr "Settings saved"
+
+#~ msgid "Настройки сброшены"
+#~ msgstr "Settings reseted"
+
+#~ msgid "режима обслуживания"
+#~ msgstr "maintenance mode"
+
+#~ msgid "Режим активен"
+#~ msgstr "Mode active"
+
+#~ msgid "Данный заголовок будет указан в теге %s"
+#~ msgstr "This title will be specified in the tag %s"
+
+#~ msgid "CSS-стили"
+#~ msgstr "CSS-styles"
+
+#~ msgid "Указанные стили будут вставлены в тег %s"
+#~ msgstr "These styles will be inserted into the tag %s"
+
+#~ msgid "Текст, который будет выводиться"
+#~ msgstr "Text to be displayed"
+
+#~ msgid ""
+#~ "Указанные текст будет вставлен в тег %s (разрешено использование "
+#~ "произвольного HTML кода)"
+#~ msgstr "These text is inserted into the tag %s (HTML code is allowed)"
+
+#~ msgid "Закрыть доступ к сайту для"
+#~ msgstr "Close access to the site for"
+
+#~ msgid "Авторов"
+#~ msgstr "Authors"
+
+#~ msgid "Участников"
+#~ msgstr "Contributor"
+
+#~ msgid "Редакторов"
+#~ msgstr "Editors"
+
+#~ msgid "Подписчиков"
+#~ msgstr "Subscribers"
+
+#~ msgid "Посетителей"
+#~ msgstr "Visitor"
+
+#~ msgid ""
+#~ "Выберите группы пользователей, для которых будет отображаться режим "
+#~ "обслуживания вместо содержимого сайта"
+#~ msgstr ""
+#~ "Select a user group for which the maintenance mode will be displayed "
+#~ "instead of the contents of the site"
+
+#~ msgid "Сбросить настройки"
+#~ msgstr "Reset settings"
